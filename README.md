@@ -11,7 +11,7 @@ The script takes in 3 arguments:
     s - JSON with the score matrix for alignment. 
     d - The gap penalty for the alignment. 
 
-The script print the alignment to the console
+The script prints the output alignment and score to the console.
 
 Example Usage: 
 
