@@ -19,6 +19,6 @@ Example Usage:
 
 Replace "seqences.fasta" with any file containing sequences to be aligned in the FASTA format.
 
-Replace score-matrix.json with a custom scoring matrix.
+Replace "score-matrix.json" with a custom scoring matrix.
 
 A sample sequences file and score matrix are included in this repository.
