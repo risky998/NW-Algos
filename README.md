@@ -25,6 +25,8 @@ Replace "score-matrix.json" with a custom scoring matrix.
 
 A sample sequences file and score matrix are included in this repository.
 
+-----------
+
 The second program runs a python script to align two given gene sequences using a linear gap penalty
 model.
 
